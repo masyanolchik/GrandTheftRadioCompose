@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "831831448574",
+    "firebase_url": "https://my-pet-project-ce951-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "my-pet-project-ce951",
+    "storage_bucket": "my-pet-project-ce951.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831831448574:android:a206c140a060512f2a7eaf",
+        "android_client_info": {
+          "package_name": "com.example.grandtheftradio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831831448574-5ch9f8atjdsb2h82hfjm4p2tn86o37ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1SFyJg2MOHFrnWOe684WG17J78z6E9dU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831831448574-5ch9f8atjdsb2h82hfjm4p2tn86o37ms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
